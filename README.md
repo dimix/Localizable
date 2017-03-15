@@ -12,6 +12,8 @@ Fast and simple extention to String to replace NSLocalizableString and similar N
 ##### Simple localization
 
 ```swift
+"string.to.localize".localized
+//  or
 "string.to.localize".localized()
 ```
 
