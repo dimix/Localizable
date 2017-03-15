@@ -2,7 +2,7 @@
 A quick & simple String extension to localize your application
 
 ## Features
-- Fast and simple extention to String to replace NSLocalizableString and similar NS functions.
+Fast and simple extention to String to replace NSLocalizableString and similar NS functions.
 
 ## How to Use
 
